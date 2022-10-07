@@ -10,7 +10,7 @@
   </a>
 
 
-![](https://komarev.com/ghpvc/?username=aryamanshrivastava&color=blue)
+![](https://komarev.com/ghpvc/?username=dheemutech&color=blue)
 <!--
 **dheemutech/dheemutech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
